@@ -26,24 +26,43 @@ The goal of the project is to evaluate whether a structured multi-agent reasonin
 ## Project Structure
 
 project-folder/
+
 │
+
 ├── main.py
+
 ├── requirements.txt
+
 ├── README.md
+
 │
+
 ├── rooms/
+
 │   └── room image files
+
 │
+
 ├── items/
+
 │   └── item image files
+
 │
+
 ├── strategy_memory/
+
 │   └── saved agent strategy memory files
+
 │
+
 ├── human_response_bank.json
+
 ├── human_prompt_bank.json
+
 ├── agentic_eval_log.json
+
 ├── identity_experiment_log.json
+
 └── generated plot/image output files
 
 Note: Some JSON log files and generated plot files are created automatically when the program runs.
