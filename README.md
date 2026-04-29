@@ -27,7 +27,6 @@ The goal of the project is to evaluate whether a structured multi-agent reasonin
 
 project-folder/
 │
-
 ├── main.py
 ├── requirements.txt
 ├── README.md
